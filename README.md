@@ -12,7 +12,7 @@ Prerequisites.
     -pip install jupyterlab
     -pip install notebook
 2. Otodom dataset.
-3. create an snowfloke account and load the otodom data into tables.
+3. create an snowfloke account and load the otodom data into tables(https://github.com/Rose-Sushma/Otodom-Data-Analytics/blob/main/Snowflake_Data_Load_Git.sql).
 
 Below are the probelm statements solved and reports were genertor so far(https://github.com/Rose-Sushma/Otodom-Data-Analytics/blob/main/Otodom_Project.ipynb):
 
