@@ -14,7 +14,7 @@ Prerequisites.
 2. Otodom dataset.
 3. create an snowfloke account and load the otodom data into tables.
 
-Below are the probelm statements solved and reports were genertor so far:
+Below are the probelm statements solved and reports were genertor so far(https://github.com/Rose-Sushma/Otodom-Data-Analytics/blob/main/Otodom_Project.ipynb):
 
 1. What is the average rental price of 1 room, 2 room, 3 room and 4 room apartments in some of the major cities in Poland? 
 	Arrange the result such that avg rent for each type fo room is shown in seperate column.
